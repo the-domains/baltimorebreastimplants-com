@@ -1,0 +1,28 @@
+name: baltimorebreastimplants.com
+favicon: null
+layout_spectrum: 0.7741628657095134
+typography_spectrum: 0.2907525240443647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9255402663256973
+  lightness: 0.42065564915537834
+  saturation: 0.8740298787597567
+  rhythmicContrast: 0.14756678161211312
+purpose: []
