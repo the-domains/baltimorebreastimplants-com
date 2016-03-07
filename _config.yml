@@ -1,20 +1,4 @@
-name: baltimorebreastimplants.com
-favicon: null
-layout_spectrum: 0.5009
-typography_spectrum: 0.29223
-title: 'Baltimore breast implants, breast augmentation and cosmetic surgery site.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#c2c5be'
     - '#e1eec2'
     - '#c6de70'
-  brandStrength: 1
+  brandStrength: 0.006757
   lightness: 0.5
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.5009
+name: baltimorebreastimplants.com
+opengraph: {}
 purpose: []
+typography_spectrum: 0.29223
