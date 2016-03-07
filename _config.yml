@@ -1,18 +1,28 @@
-analytics: {}
+name: baltimorebreastimplants.com
+favicon: null
+layout_spectrum: 0.5009
+typography_spectrum: 0.29223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#add036'
-    - '#c2c5be'
-    - '#e1eec2'
-    - '#c6de70'
+    - '#ebebeb'
+    - '#6f6f6d'
+    - '#000000'
+    - '#00c9f7'
+    - '#ff2fa1'
   brandStrength: 0.006757
   lightness: 0.5
-  rhythmicContrast: 0.5
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.5009
-name: baltimorebreastimplants.com
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.29223
