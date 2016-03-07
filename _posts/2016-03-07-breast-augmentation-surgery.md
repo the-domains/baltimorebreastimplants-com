@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T01:28:34.055Z'
-dateModified: '2016-03-07T01:27:58.433Z'
+datePublished: '2016-03-07T18:51:28.612Z'
+dateModified: '2016-03-07T01:40:16.852Z'
 title: Breast Augmentation Surgery
 author: []
+sourcePath: _posts/2016-03-07-breast-augmentation-surgery.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-breast-augmentation-surgery.md
-published: true
-url: breast-augmentation-surgery/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **Breast Augmentation Surgery**
