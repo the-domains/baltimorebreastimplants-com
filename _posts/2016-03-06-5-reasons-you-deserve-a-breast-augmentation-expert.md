@@ -1,27 +1,29 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T23:54:34.400Z'
-dateModified: '2016-03-06T23:43:13.906Z'
+datePublished: '2016-03-07T18:51:06.829Z'
+dateModified: '2016-03-07T18:44:28.343Z'
 title: 5 Reasons You Deserve a Breast Augmentation Expert
 author: []
+sourcePath: _posts/2016-03-06-5-reasons-you-deserve-a-breast-augmentation-expert.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-5-reasons-you-deserve-a-breast-augmentation-expert.md
-published: true
 url: 5-reasons-you-deserve-a-breast-augmentation-expert/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17b412ba-576e-4b0e-8a11-6625142c2e2d.jpg)
+
 Have you noticed lately that TV commmercials rarely talk about what makes their product better than the competition?  Car commercials show happy families on vacation but don't actually talk about the car.  Beer ads trumpet the new can their beer comes in but not the beer itself!  Style has triumphed over substance.
 
 You may have also noticed that alot of Plastic Surgeons call themselves "experts" in breast augmentation but don't tell you why they deserve that moniker.
