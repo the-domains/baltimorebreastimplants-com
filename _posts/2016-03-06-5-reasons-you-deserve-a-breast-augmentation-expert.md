@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T18:51:06.829Z'
-dateModified: '2016-03-07T18:44:28.343Z'
+datePublished: '2016-03-08T02:46:19.077Z'
+dateModified: '2016-03-08T02:45:56.391Z'
 title: 5 Reasons You Deserve a Breast Augmentation Expert
 author: []
 sourcePath: _posts/2016-03-06-5-reasons-you-deserve-a-breast-augmentation-expert.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: 5-reasons-you-deserve-a-breast-augmentation-expert/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17b412ba-576e-4b0e-8a11-6625142c2e2d.jpg)
