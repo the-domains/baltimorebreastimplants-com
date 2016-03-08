@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T02:44:14.675Z'
-dateModified: '2016-03-08T02:44:10.723Z'
+datePublished: '2016-03-08T02:45:08.625Z'
+dateModified: '2016-03-08T02:44:22.447Z'
 title: Gummy Bear Implants and Breast Implant Cost
 author: []
 sourcePath: _posts/2016-03-07-gummy-bear-implants-and-breast-implant-cost.md
