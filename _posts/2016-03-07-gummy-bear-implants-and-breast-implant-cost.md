@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Lots of women have heard the term \"gummy bear\" breast implants. \_Google estimates that the term is searched for nearly 10,000 times per month. \_A recent survey by\_RealSelf.com\_showed that although 70% of women have heard of gummy bear implants, most were unsure exactly what it means. \_If you're considering\_breast augmentation, read on for the 5 things you need to know about these implants."
-datePublished: '2016-03-11T03:14:21.334Z'
-dateModified: '2016-03-11T03:09:59.326Z'
+datePublished: '2016-03-11T03:17:18.803Z'
+dateModified: '2016-03-11T03:17:00.592Z'
 title: Gummy Bear Implants and Breast Implant Cost
 author: []
 sourcePath: _posts/2016-03-07-gummy-bear-implants-and-breast-implant-cost.md
